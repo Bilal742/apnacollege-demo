@@ -1,2 +1,4 @@
 # apnacollege-demo
-Complete Git and GitHub Tutorial / Practice Repository
+Complete Git and GitHub Tutorial / 
+<br>
+Practice Repository
